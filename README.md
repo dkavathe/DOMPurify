@@ -1,3 +1,8 @@
+<script src=“../../purify.js”> </script>
+
+CBIIT - Software Solutions
+
+
 # DOMPurify [![Bower version](https://badge.fury.io/bo/dompurify.svg)](http://badge.fury.io/bo/dompurify) · [![npm version](https://badge.fury.io/js/dompurify.svg)](http://badge.fury.io/js/dompurify) · [![Build Status](https://travis-ci.org/cure53/DOMPurify.svg?branch=master)](https://travis-ci.org/cure53/DOMPurify)
 
 [![NPM](https://nodei.co/npm/dompurify.png)](https://nodei.co/npm/dompurify/)
