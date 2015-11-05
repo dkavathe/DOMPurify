@@ -1,5 +1,3 @@
-<script src=“../../purify.js”> </script>
-
 CBIIT - Software Solutions
 
 
